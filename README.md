@@ -1,5 +1,5 @@
 ### Hi there 👋
-## First move
+#### Currently Learning GitHub
 <!--
 **AlanRamp/AlanRamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
